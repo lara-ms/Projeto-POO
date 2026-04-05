@@ -6,11 +6,11 @@
 
 **Matrícula:** 2365
 
--> Uso de IA
+- Uso de IA
 
 **Modelo utilizado:** Gemini (Google)
 
--> Prompts Utilizados e Resultados
+- Prompts Utilizados e Resultados
 
 > **Prompt:** [Havia anexado uma foto o UML para que a IA pudesse ter uma visao melhor do que seria cada classe.]"Me ajude como posso separar cada classe em pacotes tenho um pouco de dificuldade nessa parte, eu tenho as seguintes classe: Cliente, Computador, HardwareBasico, Main, MemoriaUSB, ProcessarPedido, SistemaOperacional, SistemaCompra(essa classe eu estou criando com o objetivo de nao colocar toda lógica na Main)"
 
